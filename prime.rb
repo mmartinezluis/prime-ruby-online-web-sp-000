@@ -8,7 +8,7 @@ def prime?(number)
     end
   true
 
-  else 
+  else
     false
   end
 end
